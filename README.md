@@ -1,2 +1,2 @@
 # BackEnd_Arg_Programa
-Tengo un problema al tratar de conectarme a la base de datos(cuando hago el clean and build). Es como si no leyese lo que pongo en el application.properties. Esto lo cambie de carpeta(estaba en la carpeta resouces y la movi a .mvn) y me funciono. El problema es que funciona con la base de datos de spring H2 y no con la que especifico en el application.properties. Si quito la dependencia de H2 database no me lee ninguna dirección de database. 
+Problema de conexión a la Base de Datos resuelto. Pero, algunas funciones para borrar se demoran en visualizarse y otras no se ejecutan. La función de editar mi about no funciona todavia.
